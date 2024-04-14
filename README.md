@@ -2,7 +2,10 @@
 
 ## О проекте
 
-Проект `avito-test-task` представляет собой реализацию задачи, представленной в репозитории [avito-tech/backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024). Этот проект был разработан в рамках обучения и включает в себя различные функциональные модули, реализованные в репозитории [fishmanDK/banner-service](https://github.com/fishmanDK/banner-service).
+Проект `avito-test-task` представляет собой реализацию проекта, который состоит из:
+- **Banner service (https://github.com/fishmanDK/banner-service).
+- **Trigger Hook service (https://github.com/fishmanDK/trigger_hook_service).
+- **RabbitMQ.
 
 ## Функциональные модули
 
