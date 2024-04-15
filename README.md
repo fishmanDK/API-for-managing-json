@@ -1,5 +1,6 @@
 # README для проекта avito-test-task
 <img width="977" alt="Снимок экрана 2024-04-15 в 20 58 43" src="https://github.com/fishmanDK/avito-test-task/assets/119760881/72d1bc8b-31e9-4330-b779-999dc8b1eacb">
+
 ## О проекте
 
 Проект `avito-test-task` представляет собой реализацию проекта, который состоит из:
