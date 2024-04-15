@@ -1,11 +1,11 @@
 # README для проекта avito-test-task
-
+![Снимок экрана 2024-04-15 в 20.58.43.png](..%2F..%2FDesktop%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-15%20%D0%B2%2020.58.43.png)
 ## О проекте
 
 Проект `avito-test-task` представляет собой реализацию проекта, который состоит из:
-- **Banner service (https://github.com/fishmanDK/banner-service).
-- **Trigger Hook service (https://github.com/fishmanDK/trigger_hook_service).
-- **RabbitMQ.
+- Banner service (https://github.com/fishmanDK/banner-service).
+- Trigger Hook service (https://github.com/fishmanDK/trigger_hook_service).
+- RabbitMQ.
 
 ## Функциональные модули
 
